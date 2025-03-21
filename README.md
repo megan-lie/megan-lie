@@ -2,7 +2,6 @@
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning Python, along with several other programs
 - 💞️ I’m looking to collaborate on my first big project
-- 📫 How to reach me: rademakersmegan@gmail.com
 - ⚡ Fun fact: I love to read and travel
 
 <!---
